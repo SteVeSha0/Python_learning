@@ -1,0 +1,1 @@
+@pyw.exe D:\python\pythonpractice\Practice\p8\p8.6\mcb.pyw %*
